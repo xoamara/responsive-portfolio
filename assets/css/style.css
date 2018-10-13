@@ -233,6 +233,10 @@ input[type=submit]:hover {
         margin-right: 40px;
     }
 
+    section {
+        width: 680px;
+    }
+
     .Portfolio {
         width: 686px;
     }
